@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    height: 100px;
+    background: url(./assets/WP_20160419.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    
+    
+}
+form{
+background-color: blanchedalmond;
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding: 30px;
+}
+.form-element{
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
